@@ -1,7 +1,7 @@
 {
   "name": "personal-email-domains",
   "version": "0.0.1",
-  "repository": "https://github.com/ivolo/personal-email-domains.git",
+  "repository": "https://github.com/tedjt/personal-email-domains",
   "license": "MIT",
   "main": "./index.json"
 }
